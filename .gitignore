@@ -18,3 +18,5 @@ yarn-error.log
 /.idea
 /.vscode
 /docker/conf/ssl/
+docker/conf/ssl/*.key
+docker/conf/ssl/*.pem
