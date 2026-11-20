@@ -64,7 +64,7 @@ docker compose exec php php artisan test
 
 ## Status
 
-Finished learning project (2023, reworked in 2024), not maintained.
+Archived, snapshot of 2024: a finished learning project, kept for reference. For a maintained Laravel application see [laravel-blog](https://github.com/okarabudka/laravel-blog).
 
 ## License
 
